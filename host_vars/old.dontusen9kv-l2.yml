@@ -1,0 +1,7 @@
+---
+spine_downlink_interface: Eth1/2
+leaf_uplink_1: Eth1/1
+leaf_uplink_2: Eth1/2
+
+underlay_loopback_ip: 192.168.0.12
+vtep_loopback_ip: 10.168.0.12
